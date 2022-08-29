@@ -10,7 +10,8 @@ Application allows:
 
 Used technologies:
 - kotlin,
-- Button and TextView.
+- Button and TextView,
+- finding views from layout with view binding.
 
 <h3>Initial app screen:</h3>
 <img src="BasicCalculatorStartScreen.png" width="200" height="400">
